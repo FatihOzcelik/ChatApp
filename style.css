@@ -1,0 +1,30 @@
+#textAreaMessages {
+    outline: none;
+    resize: none;
+    width: 50%;
+    height: 476px;
+    font-size: 16px;
+}
+
+#textBox {
+    outline: none;
+    resize: none;
+    width: 44.5%;
+    font-size: 16px;    
+}
+
+input[type=button] {
+    outline: none;
+    font-size: 16px;
+    padding: 10px 6px;
+    text-align: center;
+    background-color: white;
+    position: absolute;
+}
+
+#textAreaOnlineClients {
+    outline: none;    
+    resize: none;
+    font-size: 14px;
+    width: 20%;
+}
